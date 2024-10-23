@@ -12,7 +12,7 @@
     background-size: 75% auto;
     content: '';
     display: block;
-    height: 7350px;
+    height: 7800px;
     left: 0;
     position: absolute;
     top: 0;
@@ -167,7 +167,7 @@ img{
 }
 .main_small2 img{
     width: 750px;
-    height: 269px;
+    height: 900px;
 }
 .main2_title{
     display: grid;
@@ -646,6 +646,7 @@ input{
     /* color: black; */
     transition: 0.3s;
 }
+main_small2
 .main7_small ul a{
     color: black;
     text-decoration: none;
@@ -659,4 +660,24 @@ input{
     padding-left: 10px;
     margin-top: 20px;
     /* transition: 4s; */
+}
+.main5_small h2{
+    font-size: 31px;
+}
+.main4_small h2{
+    font-size: 31px;
+}
+.main2_small2 img{
+    width: 800px;
+    height: 900px;
+}
+.img01{
+    width: 800px;
+    height: 700px;
+}
+.img05{
+    height: 1000px;
+}
+.img10{
+    height: 750px;
 }
